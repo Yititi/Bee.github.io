@@ -1,0 +1,95 @@
+/* CSS by Yititi, 2023.05.29 */
+
+<style>
+    body{
+        background-color: rgb(189, 227, 240, 0.8);
+    }
+    img{
+        float: left;
+        margin:0 auto;
+    }
+    h1{
+        color:rgb(252, 184, 37);
+        font-family: monospace, arial;
+        font-size: 40px;
+    }
+    #Date{
+        color:rgb(75, 136, 147);
+        font-size: 40px;
+        letter-spacing: 10px;
+        line-height: 1.5;
+        font-weight: 800;
+        /* text-decoration: underline; */
+        font-style: italic;
+        Opacity: 0.5;
+        text-align: center;
+        font-family: monospace, arial, sans-serif;
+    }
+    .linda{
+        color:rgb(93, 152, 101)
+    }
+    .part one{
+        color:rgb(241, 179, 103)
+    }
+    .part one little{
+        color:rgb(255, 113, 170, 0.8)
+    }
+    div{
+        clear:both;
+        background:rgb(255, 237, 248);
+        width: 200px;
+        height: 200px;
+        position: center;
+        /* top: 10px; */
+        /* left: 15px; */
+        border-top: 5px solid rgb(178, 144, 144);
+        border-bottom: 5px solid rgb(178, 144, 144);
+        /* padding-top: 20px; */
+        /* padding-left: 20px; */
+        padding: 10px 20px 10px 20px;
+        margin:0 auto;
+        overflow: scroll;
+        display:block;
+    }
+    a{
+        color:rgb(141, 166, 183);
+        font-size: 20px;
+    }
+    a:hover{
+        color:rgb(81, 101, 115);
+    }
+</style>
+
+<!-- <p id="Date">Hello world!<br>It's summer now :D</p> -->
+<a href="https://www.instagram.com/yititi_sweetpotato" target="_blank">here</a>
+<p id="Time">Hello world!</p>
+<p class='linda'>Hello world!</p>
+<img src="C:\Users\ASUS\Desktop\Pictures\skytea.jpeg" width="200">
+<one>Hello world!</one>
+<two class="part">
+    <one>Hello world!</one>
+    <br>
+    <one>Hello<little> world!</little></one>
+</two>
+<div>
+    <p>Hello world!</p>
+    <p>Hello world!</p>
+    <p>Hello world!</p>
+    <p>Hello world!</p>
+    <p>Hello world!</p>
+    <p>Hello world!</p>
+    <p>Hello world!</p>
+    <p>Hello world!</p>
+    <p>Hello world!</p>
+</div>
+<div>
+    <p>Hey world!</p>
+    <p>Hey world!</p>
+    <p>Hey world!</p>
+    <p>Hey world!</p>
+    <p>Hey world!</p>
+    <p>Hey world!</p>
+    <p>Hey world!</p>
+    <p>Hey world!</p>
+    <p>Hey world!</p>
+</div>
