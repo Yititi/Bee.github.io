@@ -252,8 +252,8 @@ a:hover{
 
 .login-form {
     /* background-color: #ffffff; */
-    /* background-color: rgba(255, 255, 255, 0.8); 設定表單區域的半透明背景色 */
-    background-image: url("./bee1_1.jpg");
+    background-color: rgba(255, 0, 0, 0.8);
+/*     background-image: url("./bee1_1.jpg"); */
     background-size: 100% auto;
     background-position: center center;
     background-repeat: no-repeat;
