@@ -251,8 +251,8 @@ a:hover{
 }   */
 
 .login-form {
-    background-color: rgba(255, 0, 0, 0.8);
-/*     background-image: url("./bee1_1.jpg"); */
+/*     background-color: rgba(255, 0, 0, 0.8); */
+    background-image: url("./bee1_1.jpg");
     background-size: 100% auto;
     background-position: center center;
     background-repeat: no-repeat;
@@ -263,7 +263,7 @@ a:hover{
     border-radius: 8px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
     text-align: left;
-    z-index: -1;
+/*     z-index: -1; */
     /* width: 300px; */
 }
 
@@ -273,7 +273,6 @@ form {
 
 .form-group {
     margin-bottom: 15px;
-    background-image: url("./bee1_1.jpg");
 }
 
 form img {
