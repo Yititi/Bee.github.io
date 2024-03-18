@@ -251,8 +251,8 @@ a:hover{
 }   */
 
 .login-form {
-/*     background-color: rgba(255, 0, 0, 0.8); */
-    background-image: url("./bee1_1.jpg");
+    background-color: rgba(255, 0, 0, 0.8);
+/*     background-image: url("./bee1_1.jpg"); */
     background-size: 100% auto;
     background-position: center center;
     background-repeat: no-repeat;
