@@ -252,7 +252,7 @@ a:hover{
 
 .login-form {
     /* background-color: #ffffff; */
-    background-color: rgba(255, 0, 0, 0.8);
+    background-color: rgb(255, 0, 0);
 /*     background-image: url("./bee1_1.jpg"); */
     background-size: 100% auto;
     background-position: center center;
