@@ -19,6 +19,13 @@ body{
     z-index: 98;
 }
 
+.fixed-header h0,
+.fixed-header ul.menu li {
+    display: inline-block;
+    vertical-align: middle; /* 垂直居中 */
+    margin-right: 20px; /* 添加间距 */
+}
+
 .menu {
     list-style: none;
     margin: 0;
