@@ -165,6 +165,7 @@ h0 {
     font-size: 25px;
     font-family: monospace, arial, sans-serif;
     z-index: -1;
+    max-height: 100px;
     /* font-style: italic; */
 }
 
