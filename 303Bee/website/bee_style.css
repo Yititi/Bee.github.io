@@ -1,4 +1,4 @@
-/* CSS by Yititi, 2023.05.29 */
+/* CSS by Yititi, 2024.02.01 */
 
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Caveat&family=Josefin+Sans:wght@300&display=swap');
@@ -19,20 +19,13 @@ body{
     z-index: 98;
 }
 
-/* .fixed-header h0,
-.fixed-header ul.menu li {
-    display: inline-block;
-    vertical-align: middle;
-    margin-right: 20px;
-} */
-
 .menu {
     list-style: none;
     margin: 0;
     padding: 0;
     display: flex;
-    justify-content: flex-end;
-    position: relative;
+    justify-content: flex-end; /* 靠右排列 */
+    position: relative; /* 需要設定 position: relative; */
     z-index: 99; /* 設定較高的 z-index 值 */
 }
 
@@ -258,19 +251,20 @@ a:hover{
 }   */
 
 .login-form {
-/*     background-color: rgba(255, 0, 0, 0.8); */
+    /* background-color: #ffffff; */
+    /* background-color: rgba(255, 255, 255, 0.8); 設定表單區域的半透明背景色 */
     background-image: url("./bee1_1.jpg");
     background-size: 100% auto;
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    background-color: #fff; /* Fallback background color */
     padding: 100px; 
     font-size: 20px;
     color: #ffffff;
     border-radius: 8px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
     text-align: left;
-/*     z-index: -1; */
     /* width: 300px; */
 }
 
