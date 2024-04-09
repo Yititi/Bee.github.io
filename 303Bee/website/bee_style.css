@@ -19,20 +19,20 @@ body{
     z-index: 98;
 }
 
-.fixed-header h0,
+/* .fixed-header h0,
 .fixed-header ul.menu li {
     display: inline-block;
-    vertical-align: middle; /* 垂直居中 */
-    margin-right: 20px; /* 添加间距 */
-}
+    vertical-align: middle;
+    margin-right: 20px;
+} */
 
 .menu {
     list-style: none;
     margin: 0;
     padding: 0;
     display: flex;
-    justify-content: flex-end; /* 靠右排列 */
-    position: relative; /* 需要設定 position: relative; */
+    justify-content: flex-end;
+    position: relative;
     z-index: 99; /* 設定較高的 z-index 值 */
 }
 
